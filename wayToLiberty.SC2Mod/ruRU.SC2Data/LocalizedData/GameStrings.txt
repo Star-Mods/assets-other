@@ -1,0 +1,4 @@
+﻿DocInfo/DescLong=Combined by DarkWolf
+DocInfo/DescShort=Textures
+DocInfo/Name=Way to Liberty Assets
+DocInfo/PatchNote001=First attempt

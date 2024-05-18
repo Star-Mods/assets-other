@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DocInfo>
+    <ModType>
+        <Value>Interface</Value>
+    </ModType>
+    <PatchNote>
+        <Version>
+            <Value>1.0</Value>
+        </Version>
+        <Date>
+            <Value>1/12/2024</Value>
+        </Date>
+        <Notes>
+            <Value>1</Value>
+        </Notes>
+    </PatchNote>
+</DocInfo>
