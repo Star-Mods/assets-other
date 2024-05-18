@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Bank>
+    <Section name="Attachments">
+        <Key name="Ref_Center">
+            <Position value="0.000000,0.000000,0.136422"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Origin">
+            <Position value="0.000000,0.000000,0.000000"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Overhead">
+            <Position value="0.000000,0.000000,1.187058"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Target">
+            <Position value="0.000000,0.000000,0.462144"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+    </Section>
+</Bank>

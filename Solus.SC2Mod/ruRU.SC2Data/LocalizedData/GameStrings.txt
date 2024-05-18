@@ -1,0 +1,3 @@
+﻿DocInfo/DescLong=Всякое описание отсутствует.
+DocInfo/DescShort=Любой
+DocInfo/Name=Еще одна модификация

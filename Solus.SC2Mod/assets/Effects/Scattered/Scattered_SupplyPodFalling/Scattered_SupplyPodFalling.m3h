@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="us-ascii"?>
+<Bank>
+    <Section name="Attachments">
+        <Key name="Ref_Damage 03">
+            <Position value="0.521918,-0.645798,0.997231"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Damage 05">
+            <Position value="0.320407,1.014453,1.035734"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Damage 00">
+            <Position value="-0.851700,0.279796,0.689825"></Position>
+            <Rotation value="0.000000,0.000000,-0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Damage 01">
+            <Position value="-0.661647,0.991008,1.116534"></Position>
+            <Rotation value="0.000000,0.000000,-0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Damage 07">
+            <Position value="-0.669239,-0.461454,1.125571"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Damage 02">
+            <Position value="0.264953,0.424275,0.921046"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Damage 04">
+            <Position value="0.778888,-0.221933,0.255826"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Damage 06">
+            <Position value="-0.309651,-0.656931,0.218460"></Position>
+            <Rotation value="0.000016,-0.000460,-0.001551,0.999999"></Rotation>
+        </Key>
+        <Key name="Ref_Origin">
+            <Position value="0.002476,-0.004171,0.004602"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Overhead">
+            <Position value="0.002476,-0.000713,1.632091"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Target">
+            <Position value="0.007752,0.008185,0.695128"></Position>
+            <Rotation value="0.000000,-0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+        <Key name="Ref_Center">
+            <Position value="0.002557,-0.000542,0.698822"></Position>
+            <Rotation value="0.000000,0.000000,0.000000,1.000000"></Rotation>
+        </Key>
+    </Section>
+</Bank>
